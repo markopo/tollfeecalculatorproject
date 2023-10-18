@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=479a1e2c_002D6bc7_002D4425_002Daca5_002D5c01b25ef7d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetMaxFee #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5D44CC66-26A3-496F-A2E4-6839DEC1AC64::.NETCoreApp,Version=v3.1::TollFeeCalculatorTest.NewTollFeeCalculatorTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfb87628_002D3e7e_002D4c6f_002D8453_002D6a420a265263/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetMaxFee" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5D44CC66-26A3-496F-A2E4-6839DEC1AC64::.NETCoreApp,Version=v3.1::TollFeeCalculatorTest.NewTollFeeCalculatorTest.TestGetMaxFee&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ed8b4955_002Df9e6_002D4a83_002Dbc23_002Dc06e03a31e56/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OldTollFeeCalculatorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5D44CC66-26A3-496F-A2E4-6839DEC1AC64::net7.0::TollFeeCalculatorTest.NewTollFeeCalculatorTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5D44CC66-26A3-496F-A2E4-6839DEC1AC64::net7.0::TollFeeCalculatorTest.OldTollFeeCalculatorTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
